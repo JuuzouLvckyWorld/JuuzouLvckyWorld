@@ -4,8 +4,8 @@
 
 I'm Juuzou / Losheim am See, Germany
 
-## Learned at
-Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
+## Designer
+I'm currently designing everything that goes in the direction of Fivem
 
 ## Social Media
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/725078109682008265)
