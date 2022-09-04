@@ -1,4 +1,5 @@
-![Banner](https://cdn.discordapp.com/attachments/725082392456462479/1016108078904660039/Mein_eigener_banner.png)
+![Banner](![image](https://user-images.githubusercontent.com/112800262/188335412-b38d1283-de5b-48cc-879d-c15c81f1e98b.png)
+
 # About Me
 
 I'm NAME / STADT, Germany
