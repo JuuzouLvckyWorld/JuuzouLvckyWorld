@@ -1,8 +1,8 @@
- (![image](https://user-images.githubusercontent.com/112800262/188335412-b38d1283-de5b-48cc-879d-c15c81f1e98b.png)
+ ![image](https://user-images.githubusercontent.com/112800262/188335412-b38d1283-de5b-48cc-879d-c15c81f1e98b.png)
 
 # About Me
 
-I'm NAME / STADT, Germany
+I'm Juuzou / Losheim am See, Germany
 
 ## Learned at
 Gerlernt habe ich dies, bei [LvckyWorld](https://github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
