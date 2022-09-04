@@ -1,4 +1,4 @@
-![Banner](![image](https://user-images.githubusercontent.com/112800262/188335412-b38d1283-de5b-48cc-879d-c15c81f1e98b.png)
+![Banner] (![image](https://user-images.githubusercontent.com/112800262/188335412-b38d1283-de5b-48cc-879d-c15c81f1e98b.png)
 
 # About Me
 
