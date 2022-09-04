@@ -1,4 +1,4 @@
-![Banner](https://camo.githubusercontent.com/93aceef5fe9f5789d731a485c541c991f5db7ad06c5e662fb7b88ac963d9304d/68747470733a2f2f692e6c76636b79776f726c642e6e65742f6c76636b792f62616e6e65722f6e657742616e6e65722e706e67)
+![Banner](https://cdn.discordapp.com/attachments/725082392456462479/1016108078904660039/Mein_eigener_banner.png)
 # About Me
 
 I'm NAME / STADT, Germany
